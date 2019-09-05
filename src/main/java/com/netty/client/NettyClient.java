@@ -24,7 +24,7 @@ import io.netty.handler.codec.protobuf.ProtobufVarint32FrameDecoder;
 import io.netty.handler.codec.protobuf.ProtobufVarint32LengthFieldPrepender;
 import io.netty.handler.timeout.IdleStateHandler;
 /**
- * netty客户端
+ * netty客户端test1
  * @author lenovo
  *
  */
